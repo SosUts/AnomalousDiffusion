@@ -1,0 +1,13 @@
+name = "AnomalousDiffusion"
+uuid = "32c61226-b0cf-438c-b9ea-940fe9b04320"
+authors = ["SosUts <uts.199.ubosou@gmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.4"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
